@@ -22,9 +22,15 @@ Step to do below:
  >Use the command "php artisan db:seed" to seed the database.
  
  >Website should work.
- 
-## Project installation
-
 
 ## Project usage
+When opening this application, the user will be asked to sign up or log in. As any other social media page. They will get a profile in which they can only choose a username. They can name anything apart from their real names. So, the identities of the users are confidential.
+
+The user can then write a story/comment on anyone’s story. This can be a debate, information, events happening and more. 
+
+The app is about freedom of speech, so users can like and comment on others’ posts. users also have a function where they can turn it off.
+
+
+
+
 
